@@ -1,45 +1,77 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Finding Campania
 
-Welcome USER_NAME,
+**Code Institute - Milestone Project for User-Centric Frontend Development**
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+I made this site to answer all the questions of people who ask me: where are you from? What can I do coming to your side? I imagined a gallery of all the most beautiful places to see and what to do in the area I come from. It is a magnifying glass on my territory often seen as sun, pizza and Camorra.
 
-## Gitpod Reminders
+The site will focus on images, and on their interactivity that will lead us to discover the places we can visit with their description and a map that will show us how to reach them.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This project is the first of four Milestone Projects that make up the Full Stack Developer course at The Code Institute, the main requirements were to make a responsive and static website with a minimum
+of 3 pages using HTML5 and CSS3, along with any other technologies you would like to use.
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
+## User Experience
 
-Another blue button should appear to click: *Open Browser*.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: *Make Public*,
+### Project Goals
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
+### User Stories
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+### Strategy
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### Scope
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
+### Structure
 
-Happy coding!
+
+
+### Skeleton
+
+
+
+### Surface
+
+
+
+## Features
+
+
+
+### Features left to Implement
+
+
+
+## Technologies used
+
+
+
+## Testing
+
+
+
+#### Validation
+
+- [W3C CSS validation](https://jigsaw.w3.org/css-validator/)
+
+- [W3C Markup Validation](https://validator.w3.org/)
+
+  - The developer used **W3C CSS Validation Service** and **W3C Markup Validation Service** to check the validity of the website code.
+
+- [Mobile friendl Test](https://search.google.com/test/mobile-friendly)
+
+
+## Deployment
+
+
+
+## Credits
+
