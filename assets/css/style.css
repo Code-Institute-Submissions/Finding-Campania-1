@@ -44,6 +44,60 @@ a {
     font-size: 2rem;
 }
 
+/* Hero Image */
+
+#hero-outer {
+    height: 35rem;
+    width: 100%;
+    min-width: 33rem;
+    overflow: hidden;
+    position: relative;
+    margin-left: auto;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    margin-top: 7rem;
+}
+
+#hero-image {
+    height: auto;
+    width: 100%;
+    -webkit-animation-duration: 5s;
+    animation-duration: 5s;
+}
+
+h1 {
+    color: #034a75;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+
+
+/* CATEGORIES */
+
+.category a h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color: #d8f3ff;
+    position: absolute;
+    left: 15rem;
+    top: 7rem;
+}
+
+.category a h2:hover {
+    color: #034a75;
+}
+
+.category a img {
+    width: 30rem;
+    height: auto;
+    margin-top: 2rem;
+}
+
+.category:hover a img {
+    border: .2em #034a75 solid;
+}
+
 /* FOOTER */
 
 footer {
