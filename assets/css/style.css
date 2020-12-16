@@ -186,6 +186,16 @@ em {
     font-family: 'Dancing Script', cursive;
 }
 
+/* style h3 in gallety.html */
+
+h3 {
+    width: 90%;
+    color: #034a75;
+    font-size: 2.5rem;
+    border-bottom: .3em solid #034a75;
+    text-transform: uppercase;
+    margin: 2em 0 0 0;
+}
 
 /* FOOTER */
 
