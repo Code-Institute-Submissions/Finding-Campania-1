@@ -98,6 +98,95 @@ h1 {
     border: .2em #034a75 solid;
 }
 
+/* MAP AND BUTTONS */
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 60rem;
+    min-width: 33rem;
+}
+
+.container figure img {
+    width: 100%;
+    height: auto;
+    border-radius: 2%;
+    margin-top: 2rem;
+    opacity: .9;
+}
+
+
+/* botton style from https://www.w3schools.com/csS/css3_buttons.asp */
+
+.btn-style {
+    position: absolute;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 2rem;
+    padding: 1.2em .5em;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn-pos1 {
+    top: 48%;
+    left: 60%;
+}
+
+.btn-pos2 {
+    top: 33%;
+    left: 62%;
+}
+
+.btn-pos3 {
+    top: 36%;
+    left: 36%;
+}
+
+.btn-pos4 {
+    top: 47%;
+    left: 28%;
+}
+
+.btn-pos5 {
+    top: 56%;
+    left: 43%;
+}
+
+.container .btn-style:hover {
+    font-size: 2.5rem;
+}
+
+
+/* about.html */
+
+.container-fluid .img-thumbnail {
+    height: 20rem;
+    width: auto;
+    margin-right: 3rem;
+}
+
+figure .img-thumbnail {
+    height: 30rem;
+    width: auto;
+}
+
+.container-fluid p,
+em {
+    font-size: 1.5rem;
+    color: #034a75;
+}
+
+.container-fluid h2 {
+    margin-top: 8rem;
+    color: #034a75;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+
 /* FOOTER */
 
 footer {
