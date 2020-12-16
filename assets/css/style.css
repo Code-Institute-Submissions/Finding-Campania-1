@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Permanent+Marker&family=Roboto:wght@300;400;500&display=swap');
+* {
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d8f3ff;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* NAVBAR */
+
+.navbar {
+    background-color: #00bb2d !important;
+}
+
+.navbar-brand {
+    font-family: 'Permanent Marker', cursive;
+    font-size: large;
+}
+
+.navbar-brand img {
+    width: 5em;
+}
+
+.active a {
+    color: #034a75 !important;
+}
+
+.nav-link:hover {
+    color: #034a75 !important;
+}
+
+a {
+    color: #d8f3ff !important;
+    font-size: 1.6rem;
+}
+
+.navbar-toggler-icon {
+    font-size: 2rem;
+}
+
+/* FOOTER */
+
+footer {
+    margin-top: 10rem;
+    padding: .5em;
+    background-color: #00bb2d;
+    color: #d8f3ff;
+    font-family: 'Roboto', sans-serif;
+    min-width: 33rem;
+}
+
+small {
+    font-size: 1rem;
+}
+
+.social-icon-shadow a i:hover {
+    color: #034a75;
+}
