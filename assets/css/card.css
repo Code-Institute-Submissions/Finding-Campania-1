@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 article,
 section {
     margin-top: 5rem;
@@ -136,4 +143,13 @@ section {
     -webkit-transform: scale(.9);
     -ms-transform: scale(.9);
     transform: scale(.9);
+}
+
+@media screen and (min-width: 38.125em) {
+    .mycard {
+        max-width: 22.5rem;
+    }
+    .mycard .top-text p .fa-arrow-circle-down {
+        font-size: 1.6rem;
+    }
 }
