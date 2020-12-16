@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Permanent+Marker&family=Roboto:wght@300;400;500&display=swap');
 * {
     font-size: 10px;
@@ -11,6 +18,7 @@ body {
     background-color: #d8f3ff;
     font-family: 'Roboto', sans-serif;
 }
+
 
 /* NAVBAR */
 
@@ -43,6 +51,7 @@ a {
 .navbar-toggler-icon {
     font-size: 2rem;
 }
+
 
 /* Hero Image */
 
@@ -97,6 +106,7 @@ h1 {
 .category:hover a img {
     border: .2em #034a75 solid;
 }
+
 
 /* MAP AND BUTTONS */
 
@@ -186,6 +196,7 @@ em {
     font-family: 'Dancing Script', cursive;
 }
 
+
 /* FORM in contact.html */
 
 .btn-submit {
@@ -215,6 +226,7 @@ option {
     font-size: 1.6rem;
 }
 
+
 /* style h3 in gallety.html */
 
 h3 {
@@ -225,6 +237,7 @@ h3 {
     text-transform: uppercase;
     margin: 2em 0 0 0;
 }
+
 
 /* FOOTER */
 
