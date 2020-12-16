@@ -186,6 +186,35 @@ em {
     font-family: 'Dancing Script', cursive;
 }
 
+/* FORM in contact.html */
+
+.btn-submit {
+    background-color: #00bb2d;
+    color: #d8f3ff;
+    font-size: 1.6rem;
+}
+
+.btn-submit:hover {
+    background-color: #d8f3ff;
+    color: #034a75;
+}
+
+fieldset {
+    font-family: 'Roboto', sans-serif;
+    color: #034a75;
+}
+
+fieldset>legend {
+    font-size: 2rem;
+}
+
+.form-group>label,
+.form-group>input,
+.form-control,
+option {
+    font-size: 1.6rem;
+}
+
 /* style h3 in gallety.html */
 
 h3 {
