@@ -89,7 +89,7 @@ h1 {
     font-size: 3rem;
     color: #d8f3ff;
     position: absolute;
-    left: 15rem;
+    left: 12rem;
     top: 7rem;
 }
 
@@ -256,4 +256,55 @@ small {
 
 .social-icon-shadow a i:hover {
     color: #034a75;
+}
+
+
+/* media queries of the link to categories in index.html */
+
+@media screen and (min-width: 20.625em) {
+    .navbar-brand {
+        font-size: x-large;
+    }
+}
+
+@media screen and (min-width: 28.125em) {
+    .category a h2 {
+        left: 17rem;
+    }
+    /* media queries of the navbar-brand */
+    .navbar-brand {
+        font-size: xx-large;
+    }
+}
+
+@media screen and (min-width: 48em) {
+    .category a h2 {
+        left: 12rem;
+    }
+    #tab-screen {
+        left: 32rem;
+    }
+}
+
+@media screen and (min-width: 62em) {
+    .category a h2 {
+        left: 15rem;
+    }
+    #tab-screen {
+        left: 44rem;
+        top: 7rem;
+    }
+    /* media queries contact.html */
+    aside .row {
+        margin-top: 12rem;
+    }
+}
+
+@media screen and (min-width: 75em) {
+    .category a h2 {
+        left: 12rem;
+    }
+    #tab-screen {
+        left: 12rem;
+    }
 }
