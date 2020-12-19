@@ -1,10 +1,10 @@
-# <img src=".\assets\images\logo.png" alt="Logo" style="zoom:12%;"/> Finding Campania
+# Finding Campania
 
 **Code Institute - Milestone Project for User-Centric Frontend Development**
 
 [View webpage in GitHub Pages]( https://github.com/maxthor500/Finding-Campania)
 
-![Multi Device Website Mockup](.\assets\mockup\Multi Device Website Mockup Generator.png)
+![Multi Device Website Mockup](.\assets\mockup\MultiDeviceMockup.png)
 
 I have made this site to answer all the people's questions who ask me: 'Where are you from?', 'What can I do when coming to your country?'. I had imagined a gallery of all the most beautiful places to see and what to do in the area I come from. It is a magnifying glass on my territory often seen as sun, pizza and Camorra.
 
@@ -15,8 +15,6 @@ This project is the first of four Milestone Projects that make up the Full Stack
 [Click here to see the website live](https://maxthor500.github.io/Finding-Campania/)
 
 
-
-
 ## User Experience
 
 This section provides insight into the UX process, focusing on who the Finding Campania website is for, the main aims of the project and how the website can help users meet their needs.
@@ -25,7 +23,7 @@ This section provides insight into the UX process, focusing on who the Finding C
 
 - to get people interested to visit this region of Italy and to discover new places.
 - to get all the beautiful places in Campania in a single site.
-- to get a preview of all places wants to visit.
+- to get a preview of every location users want to visit.
 - to learn about these tourist destinations and where they are located on the map.
 - to present information about these destinations.
 - to create a website that is fully responsive on mobiles, laptops, tablets and desktops.
@@ -81,7 +79,7 @@ I started developing my wireframes using Balsamiq for each page on mobile, table
 
 ### Skeleton
 
-*  [Home](./assets/mockup/Home.pdf)
+* [Home](./assets/mockup/Home.pdf)
 * [About](./assets/mockup/About.pdf)
 * [Adventures](./assets/mockup/Categories.pdf)
 * [Art  & Culture](./assets/mockup/Categories.pdf)
@@ -153,7 +151,6 @@ In the future, I would like:
 * option to choose the language of the website.
 * to add the best offers of the moment to the home.
 * to add a section to the cards with the offers available in that specific place.
-
 
 
 ## Technologies used
@@ -260,8 +257,6 @@ Users can contact the website via the form in contact.html.
 
 #### Bug 
 
-**Fixed**:
-
 - Categories' h2  in index.html did not appear centred on breakpoints 767px and 1200px, ***solved*** by media queries by shifting the value of left to each of the breakpoints.
 - in mobile mode, the toggle button in the navbar was shown on another line, ***solved*** by decreasing the font size of the navbar brand.
 - the three images in the side section should occupy the width that the text above also occupies while in the mobile mode they should be larger, ***not solved*** as I considered it irrelevant and didn't want to change the code further.
@@ -352,6 +347,6 @@ I would like to thank the following:
 * **CI Staff** and **Slack Community** for their assistance with minor coding issues.
 * to write my README.md it was useful to follow that of [Anna Gilhespy](https://github.com/AJGreaves/portrait-artist/blob/master/README.md) and [JackSheehy15](https://github.com/jacksheehy15/milestone-project-1/blob/master/README.md)
 
-**The content of this Website is for educational purposes only.**
+**The content of this website is for educational purposes only.**
 
 Thanks for taking the time to view my README. I hope you enjoyed your visit to my page.
